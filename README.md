@@ -1,6 +1,6 @@
 # About App:
 
-- This app helps to understand the course structure for graduate students, it gives a clear understanding about the subjects required to be pursued based on the previous degree and studied subjects.
+This application helps to understand the study pan for a Masters program. A user can create an account and plan his degree course by considering his undergraduate subjects, it helps to calculate the number of pre-requisite subjects required to take in-order to meet the Masters Degree requirement.
 
 # Developers:
 - Shivani Busireddy
