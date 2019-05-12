@@ -2,12 +2,6 @@
 
 This application helps to understand the study pan for a Masters program. A user can create an account and plan his degree course by considering his undergraduate subjects, it helps to calculate the number of pre-requisite subjects required to take in-order to meet the Masters Degree requirement.
 
-# Developers:
-- Shivani Busireddy
-- Santosh Sekhar Muchkur Bogarajula
-- Lakshmi Seshu Kalvakuri
-- Vijay Tupakula
-- Srimai Reddy Yanala
 
 # App requirements:
 
@@ -17,19 +11,15 @@ This application helps to understand the study pan for a Masters program. A user
 
 # Running our Application:
 
-- Clone project from our repo: https://github.com/SrimaiReddy/Masters
+- Clone project from our repo: https://github.com/santoshsekhar/MastersStudyPlan
 - copy link uder clone tab
 - open terminal or command prompt, select location to clone
-- type "git clone https://github.com/SrimaiReddy/Masters"
+- type "git clone https://github.com/santoshsekhar/MastersStudyPlan"
 - Open the Masters.sln file with Visual Studio
 - Click on IIS run button on menu bar at top to run the app locally
 - You can also run the app from command prompt using the command "dotnet run"
 - Deployed link: https://masters1.azurewebsites.net/
 
-# Issue tracking system:
-
-- https://github.com/SrimaiReddy/Masters/issues
-- https://github.com/SrimaiReddy/Masters/commits/master
 
 # How to deploy
 - Open the project folder
@@ -42,18 +32,7 @@ This application helps to understand the study pan for a Masters program. A user
 
 # Screen shots of App running locally:
 
-![Image1](https://github.com/SrimaiReddy/Masters/blob/master/Docs/image1.png)
-![Image2](https://github.com/SrimaiReddy/Masters/blob/master/Docs/image2.png)
+![Image1](https://github.com/santoshsekhar/MastersStudyPlan/blob/master/Docs/image1.png)
+![Image2](https://github.com/santoshsekhar/MastersStudyPlan/blob/master/Docs/image2.png)
 
-# Cost Estimate
 
-| Cost Estimate       |        |
-|-----------------------|--------|
-| Take Home Hourly Rate |25/hrs |
-| Multiplier            | 2.6    |
-| Billing Rate          | 65  |
-| Developers            | 5      |
-| Hours per Developer   | 180    |
-| Percent of the total value |80%    |
-
-Total Cost estimate : $58,500
